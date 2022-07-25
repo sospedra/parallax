@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "module": "es2022"
+  },
+  "extends": "expo/tsconfig.base"
+}
